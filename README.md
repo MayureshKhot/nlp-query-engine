@@ -216,7 +216,11 @@ Please add tests for new features when possible.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+I don’t believe in locking down ideas or restricting usage.  
+If your idea can be copied and executed better — that’s not theft, that’s talent.  
+
+So go ahead, use it, learn from it, build something better.  
+Because real moat isn’t secrecy — it’s **skill, speed, and consistency**.  
 
 ---
 
@@ -227,5 +231,3 @@ If you need help:
 - Include backend logs (terminal output) and any errors from the browser console for frontend issues.
 
 ---
-
-**That's it — copy this into your `README.md`** and adjust any paths or environment values to match your local setup. If you want, I can also generate a short `backend/.env.example` or a `Makefile` you can use instead of typing commands manually.
